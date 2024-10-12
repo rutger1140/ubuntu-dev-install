@@ -107,6 +107,9 @@ echo "deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.gpg arch=amd64] http
 sudo apt update
 sudo apt install -y mise
 
+# Add libraries needed for Mise PHP plugin
+sudo apt install libsqlite3-dev re2c libcurl4-openssl-dev
+
 ################
 # Install PHP + Composer
 ################
