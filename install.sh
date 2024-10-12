@@ -108,7 +108,7 @@ sudo apt update
 sudo apt install -y mise
 
 # Add libraries needed for Mise PHP plugin
-sudo apt install libsqlite3-dev re2c libcurl4-openssl-dev
+sudo apt install libsqlite3-dev re2c libcurl4-openssl-dev libgd-dev libonig-dev libzip-dev
 
 ################
 # Install PHP + Composer
