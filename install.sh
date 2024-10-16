@@ -2,7 +2,7 @@
 # System installer Ubuntu Dev machine 
 # Date: 10-10-2024
 # OS: Ubuntu 24.10
-# Author: Rutger Laurman
+# Author: rutger1140 
 ########################################################
 
 echo "########################################################"
